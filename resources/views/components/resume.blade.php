@@ -62,7 +62,7 @@
                       </div>
                       <div class="col-6">
                         <h5>10th Grade</h5>
-                        <p>NITRA Technical Campus</p>
+                        <p>Siddharth Public School</p>
                         <small>2018 – 2019</small>
                       </div>
                     </div>
